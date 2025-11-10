@@ -1,10 +1,10 @@
 # Group Research Project Report
 
 ## Team Members:
-1. ...  
-2. ...
-3. ... 
-4. ... 
+1. ..
+2. ..
+3. .. 
+4. .. 
 
 ## Declaration
 [Perplexity AI] was used to [develop explanations, refine structure, and clarify key terms] for this group research project report on [topic]. Prompt: '...'. No AI-generated text is included in the final submission. Accessed: [Date]. Available at: https://www.perplexity.ai/.
