@@ -1,7 +1,7 @@
 # Group Research Project Report
 
 ## Team Members:
-1. ..
+1. .. 
 2. ..
 3. .. 
 4. .. 
