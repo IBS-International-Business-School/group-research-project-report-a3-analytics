@@ -8,13 +8,24 @@
 1. Karthik Ramu 2. Nargus Batool 3. Mohammadali Ghaderi
 
 ## Declaration
-...
+
+We affirm that our report is the product of our own independent research and has not been submitted, either entirely or partially, for any other evaluation. All the information and concepts that contributed to the project have been properly credited with the use of the Harvard referencing style. The generative AI tools were only consulted to assist with the idea generation and report structuring in line with the module’s Level 2 guidance on AI use; the final wording, analyses, and interpretations displayed here were composed and verified by the project team members. The dataset, analysis files, and supporting documents are in the possession of the group and can be provided to the examiners if requested.
 
 ## Executive Summary
-...
+
+OmniAssist Technologies is an organization that creates AI-enabled customer service tools that are implemented by banks, retailers, and the travel sector and telecoms companies. With the growing prominence of these technologies among the end-users, the company has a need for clear proof about people's attitudes toward AI interactions as compared to human interactions. This study aims to investigate the attitudes of university students toward AI and the human foals along the lines of trust, perceived helpfulness, convenience, frustration, and preferences for AI-led versus human-led customer service. The research team performed a quantitative survey with a structured questionnaire uploaded online for students aged 18–34. The responses of sixty-two participants were taken into account. The ratings given on multiple Likert-scale items were firstly grouped together and then translated into composite scores for six constructs: Trust, Helpfulness, Convenience, Ease of Interaction (low frustration), Preference for AI and Behavioral Intention. Descriptive statistics, correlations, one-way ANOVA tests and multiple regression models were performed using Python.
+
+The findings point to a general tendency to view AI in customer service positively but with reservations. Trust and convenience are the most impactful factors behind the preference for AI; the correlations with preference are r = 0.735 and r = 0.695 respectively. A multiple regression model comprising of trust, helpfulness, and convenience explains about 81% of the variation in preference, with trust being the most important predictor. Self-reported technology comfort, however, does not have any significant effect on trust or preference, while frequency of AI use leads to greater trust and easier interactions but not to convenience. Based on these findings, it is our recommendation that OmniAssist should concentrate on the design features and deployment strategies that will build trust and reduce friction and also ensure positive initial experiences with the AI tools. Rather than completely separating users according to demographics or technology comfort level, the company should rely on usage-based journeys, open communication, and ongoing feedback loops to steer users’ confidence in the AI-enabled customer service.
 
 ## Introduction
-...  
+
+AI quickly became a part of customer service and it has changed the business interaction with customers by providing faster, efficient and personalized support experiences. Sectors like banking, retail, travel and telecom are using AI-powered tools more, such as chatbots, virtual assistants and automated support systems for taking the customer inquiries and improving quality of service. OmniAssist Technologies, a global software company that offers AI-based customer service solutions, looks for a way to know how the public sees and interacts with these technologies. To put it differently, as AI developments continue, it will be ascertained to be critical for customer satisfaction, user trust, and long-term trust. Thus, understanding customer's service attitudes towards AI in their service environment will be the main factor in successful implementation (Wang et al., 2022).
+
+On one hand AI systems offer several advantages, on the other hand public opinion is still not settled and remains divided. Some users of AI are praising it for its quick replies, consistent service, and always available support. Others, however, are complaining about the system’s lack of human touch, limited ability to understand and solve issues, and their potential to get lost in communication. In addition, customer trust in AI is determined by the level of transparency, security of personal data, and the company’s ability to interact effectively. These different opinions stress the need for research to find out how users rate AI in customer service against human agents. Understanding such attitudes can assist OmniAssist Technologies in setting proper product development cycle, marketing strategies, and customer training programs that meet the expectations of consumers.
+
+The research question guiding this study is:
+
+* What are the public attitudes toward AI in customer service, and how do trust, helpfulness, convenience, and frustration influence preferences for AI-led versus human-led interactions?  
 
 ## Methodology
 This study adopted a quantitative, survey-based design to explore attitudes toward AI in customer service among university-aged respondents. A structured online questionnaire allowed us to capture standardized ratings on multiple constructs and to link these two basic demographic and behavioral variables.
@@ -102,10 +113,14 @@ Regression analyses were carried out to investigate the predictive relationships
 ---
 
 ## Discussion
-... 
+The results indicate that although the respondents acknowledge the advantages of AI customer service in terms of convenience and efficiency, they still have doubts concerning its trustworthiness and the possibility of a human-like interaction. Trust emerged to be the primary factor influencing both Preference for AI and Behavioral Intention, thus coinciding with existing studies which emphasize the importance of reliability, transparency, and ethical data use for AI to be accepted. Technology comfort was not a significant factor in shaping attitudes, but rather, frequent AI users indicated higher trust and smoother conversations, which implies that personal experience—not digital skill perceived by others—creates confidence. The above-mentioned findings suggest that organizations ought to invest in the creation of user-friendly, patient onboarding that guides the potential users in getting used to the AI systems. Nevertheless, the limited size of the sample, which mainly consisted of students, restricts the generalization of the results, therefore indicating the necessity of wider future research. 
 
 ## Recommendations
-... 
+The study's conclusions offer multiple recommendations to assist OmniAssist Technologies in the sphere of artificial intelligence (AI) customer support tools, which are capable of boosting user trust, adoption, and satisfaction. To begin with, trust should be given top priority at every stage of system design and deployment since it was the strongest predictor of AI preference and user intention. As a result, OmniAssist should convince users of its commitment to transparency by giving detailed information about the AI system’s operation, the data collection, and the measures taken for privacy protection. Besides, users can be kept confident through the incorporation of explainable AI responses, visible security cues, and consistent interaction patterns.
+
+Next, the focus has to be on the removal of deterrents and enhancement of interactivity that the customer experiences—first-time users in particular. As the frequent users reported having higher trust and smoother interactions, OmniAssist should come up with early experiences that are easily understandable and do not cause frustration at all. Negative initial impressions can be averted through techniques such as ushering new users through the setup process, offering personalized tips, and straightforwardly handling mistakes, as well as prompt issue escalation when AI reaches its limits.
+
+Third, since the comfort with technology did not considerably affect the trust or preference, the company should not segment its customer base on the basis of demographics. A more effective technique is user-based personalization which modifies the support level, interface sophistication, and guidance in accordance to the users’ actual interaction habits instead of the assumed skill levels. 
 
 ## Reflection on Team Process
 
