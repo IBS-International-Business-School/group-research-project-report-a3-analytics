@@ -99,9 +99,6 @@ Regression analyses were carried out to investigate the predictive relationships
 
 ![Low Trust vs High Trust: Convenience & Behavioral Intention](Charts/12.png)
 
-```
-
-
 ---
 
 ## Discussion
