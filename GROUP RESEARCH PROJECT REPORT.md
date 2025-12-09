@@ -146,7 +146,7 @@ The survey takes about 5 minutes to complete.
 
 ---
 
-#### Section 1: Screening and Background 
+##### Section 1: Screening and Background 
 
 *(To ensure participants have basic familiarity with the topic.)*  
 
@@ -172,7 +172,7 @@ The survey takes about 5 minutes to complete.
 
 ---
 
-#### Section 2: Perceived Helpfulness of AI 
+##### Section 2: Perceived Helpfulness of AI 
 
 *(5-point Likert scale: 1 = Strongly Disagree → 5 = Strongly Agree)*  
 
@@ -184,7 +184,7 @@ The survey takes about 5 minutes to complete.
 
 ---
 
-#### Section 3: Perceived Convenience 
+##### Section 3: Perceived Convenience 
 
 *(5-point Likert scale)*  
 
@@ -196,7 +196,7 @@ The survey takes about 5 minutes to complete.
 
 ---
 
-#### Section 4: Perceived Trust 
+##### Section 4: Perceived Trust 
 
 *(5-point Likert scale)*  
 
@@ -208,7 +208,7 @@ The survey takes about 5 minutes to complete.
 
 ---
 
-#### Section 5: Perceived Frustration (Low-friction Focus) 
+##### Section 5: Perceived Frustration (Low-friction Focus) 
 
 *(5-point Likert scale — all positive phrasing to avoid emotional/negative tone)*  
 
@@ -220,7 +220,7 @@ The survey takes about 5 minutes to complete.
 
 ---
 
-#### Section 6: Preference for Human vs. AI Interaction 
+##### Section 6: Preference for Human vs. AI Interaction 
 
 *(5-point Likert scale)*  
 
@@ -234,7 +234,7 @@ The survey takes about 5 minutes to complete.
 
 ---
 
-#### Section 7: Demographic Information 
+##### Section 7: Demographic Information 
 
 *(Optional and non-intrusive — no personal data)*  
 
@@ -278,7 +278,7 @@ The survey takes about 5 minutes to complete.
 
 ---
 
-#### Response Scale Reminder 
+##### Response Scale Reminder 
 
 All attitude statements (Questions 4–30) use a 5-point Likert scale:  
 
@@ -290,7 +290,7 @@ All attitude statements (Questions 4–30) use a 5-point Likert scale:
 
 ---
 
-### Construct Mapping 
+##### Construct Mapping 
 
 | Construct                  | Question Numbers |
 |----------------------------|------------------|
@@ -302,3 +302,9 @@ All attitude statements (Questions 4–30) use a 5-point Likert scale:
 | Demographics               | 31–35            |
 
 --- 
+#### B.	Appendix B. Python analysis notebook (a3_analysis.ipynb), including full code and additional exploratory figures. 
+[Click here to view the Python Notebook](A3_analysis.pynb)
+---
+#### C. Additional charts not embedded in the main report (exported as .png and linked from the Results section).
+
+![Behavioral Intention by Gender](Charts/17.png)
