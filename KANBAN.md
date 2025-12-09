@@ -56,7 +56,7 @@
 
 | Task                             | Assigned To | Assigned Date | Status Notes |
 | -------------------------------- | ----------- | ------------- | ------------ |
-| Final check                      | Karthik     | 9th DEC       | 9th DEC      |✅
+|                                  |             |               |              |
 
 ---
 
@@ -64,7 +64,7 @@
 
 | Task                                       | Assigned To | Assigned Date | Status Notes |
 | ------------------------------------------ | ----------- | ------------- | ------------ |
-| Final check                                | Karthik     | 9th DEC       | 9th DEC      |✅
+|                                            |             |               |              |
 
 ---
 
@@ -96,19 +96,19 @@
 
 ---
 
-# 📊 Performance Tracking Section (Required)
+# Performance Tracking Section (Required)
 
 Use this table to document performance for evidence of contribution (aligned with module free-rider policy).
 
 | Member   | Tasks Completed | Participation Notes | Delays / Issues | Overall Contribution     |
 | -------- | --------------- | ------------------- | --------------- | ------------------------ |
-| Batool   | 5               |                     | Many            | ?                        |
-| Karthik  | 8               |                     | 1               | 40%                      |
-| Ghaderi  | 10              |                     | 0               | I don't know what to say |
+| Batool   | 9               |                     | Many            | ?                        |
+| Karthik  | 10              |                     | 1               | 40%                      |
+| Ghaderi  | 12              |                     | 0               | I don't know what to say |
 
 ---
 
-# 📝 Update Rules
+# Update Rules
 
 **All members must follow these rules:**
 
@@ -121,7 +121,6 @@ Use this table to document performance for evidence of contribution (aligned wit
 
  * Example: *"Moved task to In Progress — Amir (12 Nov)"*
 
----
 ---
 
 ## Behaviour & Contribution Notes (Leadership & Commitment)
